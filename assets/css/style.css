@@ -91,14 +91,14 @@ nav ul li {
 
 
 /*Service Area*/
-.services-wrapper {
+.products-wrapper {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
 /*changed from Seach Engine Opt*/
-.service {
+.products {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -108,21 +108,21 @@ nav ul li {
 }
 
 /*got a lot of help with this*/
-.service img {
+.products img {
     max-height: 200px;
 }
 
-.service:nth-child(even) img {
+.products:nth-child(even) img {
     float: right;
     margin-left: 25px;
 }
 
-.service:nth-child(odd) img{
+.products:nth-child(odd) img{
     float: left;
     margin-right: 25px;
 }
 
-.service h2 {
+.products h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
